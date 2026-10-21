@@ -1,0 +1,1009 @@
+<USER_REQUEST>
+UNA COSA, TENGO ESTO:
+Medicamento	Forma Farmacéutica	Concentración
+		
+Bicarbonato de sodio	Polvo	20 g
+Fluoruro de sodio	Gel o Pasta	Según Programa
+Hidróxido de aluminio y magnesio	Suspensión	1:1
+Omeprazol	Cápsula	20 mg
+Ranitidina	Comprimido	150 mg
+Ranitidina	Inyectable	50 mg
+Omeprazol	Inyectable	40 mg/ml
+Misoprostol	Comprimido	200 mcg
+Sucralfato	Suspensión	1g/5ml
+Atropina sulfato	Inyectable	1 mg/ml
+Butilbromuro de Hioscina (Butilescopolamina)	Comprimido	10 mg
+Butilbromuro de Hioscina (Butilescopolamina)	Solución oral gotas	0,1%
+Butilbromuro de Hioscina (Butilescopolamina)	Inyectable	20 mg/ml
+Domperidona	Comprimido	10 mg
+Metoclopramida	Comprimido	10 mg
+Metoclopramida	Inyectable	10mg/2ml
+Metoclopramida	Solución oral gotas	0,35% ο 0,5%
+Propinoxato	Comprimido	10 mg
+Propinoxato	Inyectable	5 mg/ml
+Simeticona	Suspensión	3% 4%
+Simeticona	Comprimido	100 mg
+Ondansetrón	Inyectable	8 mg
+Ondansetrón	Comprimido	8 mg
+Ac. Ursodeoxicolico	Cápsula	250 mg
+Aceite mineral	Emulsión oral	40%
+Bisacodilo	Comprimido	5 mg
+Fibra natural	Polvo o Granulado	Según disponibilidad
+Glicerol (Glicerina)	Supositorio	2 ga 4 g (adulto)
+Glicerol (Glicerina)	Supositorio	1 g a 1,80 g (infantil)
+Lactulosa	Solución oral	65% a 67%
+Sulfato de Magnesio	Granulado	20 g a 30 g
+Carbón medicinal activado	Polvo	Según disponibilidad
+Loperamida	Cápsula o Comprimido	2 mg
+Nistatina	Comprimido	500.000 UI
+Nistatina	Suspensión	500.000 UI/5 ml
+Sales de rehidratación oral (SRO) baja osmolaridad	Sobres	Según concentración estándar
+Mesalazina	Comprimido	500 mg
+Mesalazina	Supositorio	1g
+Enzimas pancreáticas (Lipasa, Proteasa y Amilasa en combinación)	Comprimido	Según disponibilidad
+Glibenclamida	Comprimido	5 mg
+Insulina recombinante humana NPH	Inyectable	100 UI/ml
+Insulina zinc cristalina recombinante humana	Inyectable	100 UI/ml
+Metformina	Comprimido	850 mg
+Insulina Glargina	Inyectable	100 UI/ml
+Insulina Glulisina	Inyectable	100 UI/ml
+Metformina	Comprimido	500 mg
+Aceite vitaminado (alimento)	Emulsión oral	Según disponibilidad
+Ácido Ascorbico (Vitamina C)	Inyectable	500 mg/ml (2 ml)
+Ácido Ascórbico (Vitamina C)	Solución oral gotas	Según disponibilidad
+Cianocobalamina (Vitamina B12)	Inyectable	1 mg/ml
+Colecalciferol (Vitamina D3)	Cápsula blanda o Comprimido	0,25 mcg
+Complejo B (B1 + B6 + B12)	Comprimido	Según concentración estándar
+Complejo B (B1+ B6 + B12)	Inyectable	Según concentración estándar
+Complejo de vitaminas y minerales (Uso pediatría) CMV	Polvo para solución oral	Según disponibilidad
+Multivitaminas	Comprimido	Según concentración estándar
+Multivitaminas	Jarabe	Según concentración estándar
+Piridoxina clorhidrato (Vitamina B6)	Comprimido	300 mg
+Piridoxina clorhidrato (Vitamina B6)	Inyectable	300 mg
+Retinol (Vitamina A)	Cápsula o Perla	10.000 UI
+Retinol (Vitamina A)	Cápsula o Perla	25.000 UI
+Retinol (Vitamina A)	Cápsula o Perla	100.000 UI
+Retinol (Vitamina A)	Cápsula o Perla	200.000 UI
+Tiamina (Vitamina B 1)	Comprimido	300 mg
+Tiamina (Vitamina B 1)	Inyectable	100 mg/ml
+Tocoferol (Vitamina E)	Cápsula blanda	1.000 UI
+Multivitaminas	Polvo Liofilizado	Según disponibilidad
+Calcio (carbonato o citrato)	Comprimido	500 mg (ión calcio)
+Calcio + Vitamina D	Comprimido o Cápsula	500 mg (ión calcio); Según disponibilidad
+Cloruro de potasio	Solución oral	1,3 mEq/ml
+Fluoruro de sodio	Solución oral gotas	0,2%
+Zinc (como sulfato)	Jarabe	20 mg/5 ml
+Zinc (como sulfato)	Comprimido	20 mg
+		
+		
+Ácido acetil salicílico	Comprimido	100 mg
+Estreptoquinasa	Inyectable	1.500.000 UI
+Heparina de bajo peso molecular	Inyectable	Según disponibilidad o requerimiento
+Heparina sódica	Inyectable	5.000 UI/ml
+Warfarina	Comprimido ranurado	5 mg
+Clopidogrel	Comprimido	75 mg
+Rivaroxabán	Comprimido	10 mg
+Tenecteplasa	Polvo para inyectable	50 mg
+Ácido aminocapróico	Inyectable	2g/10 ml
+Fitomenadiona (Vitamina K1)	Inyectable	10 mg/ml
+Etamsilato	Inyectable	250 mg/2 ml
+Factor VIII de la coagulación	Inyectable	500 UI
+Factor IX de la coagulación	Inyectable	500 UI
+Ácido Tranexámico	Inyectable	500 mg
+Ácido Tranexámico	Comprimido	500 mg
+Fibrinógeno humano	Inyectable	1 g
+Ácido fólico	Comprimido	5 mg
+Eritropoyetina	Inyectable	10.000 UI
+Eritropoyetina	Inyectable	2.000 UI
+Hierro	Inyectable	100 mg - IM o IV
+Micronutrientes (Vit. C + Vit A + Fe + Zn + Ac. Fólico) (Chispitas nutricionales)	Polvo	Según concentración estándar
+Sulfato ferroso	Comprimido	200 mg
+Sulfato ferroso	Solución oral	125 mg/ml
+Sulfato ferroso + Ac. Fólico + Vitamina C	Comprimido	200 mg + 0,5 mg + 150 mg
+Sulfato ferroso + Ac. Fólico + Vitamina C	Solución oral	125 mg + 0,25 mg + 30 mg
+Ácido Fólico	Comprimido	800 mcg
+Eritropoyetina	Inyectable	4000 UI
+Hierro (como bisglicina quelato)	Suspensión	30 mg/5ml
+Agua para inyección	Inyectable	5 ml
+Albúmina humana	Inyectable	20%
+Aminoácidos	Solución parenteral de gran volumen	10%
+Bicarbonato de sodio	Inyectable	8%
+Bicarbonato de sodio p/hemodiálisis	Polvo	Frasco por 720 g
+Cloruro de potasio	Inyectable	20%
+Cloruro de sodio	Inyectable	20%
+Dextrán 70	Solución parenteral de gran volúmen	6%
+Emulsión de lípidos	Emulsión inyectable	Según disponibilidad
+Gluconato Cálcico (Calcio Gluconato)	Inyectable	10%
+Oligoelementos para nutricion parenteral	Solución parenteral de gran volúmen	Según disponibilidad
+Agentes con gelatina	Solución parenteral de gran volúmen	Según disponibilidad
+Solucion Acida	Solución	Según disponibilidad
+Solución Básica	Solución	Según disponibilidad
+Solución de glucosa	Solución parenteral de gran volumen	5% (500 ml)
+Solución de glucosa	Solución parenteral de gran volumen	5% (1.000 ml)
+Solución de glucosa	Solución parenteral de gran volumen	10% (500 ml)
+Solución de glucosa	Solución parenteral de gran volumen	10% (1.000 ml)
+Solución de glucosa	Solución parenteral de gran volumen	50% (20 ml)
+Solución de glucosa	Inyectable	50% (500 ml)
+Solución de Manitol	Solución parenteral de gran volumen	20% (500 ml)
+Solución Fisiológica	Solución parenteral de gran volumen	0,9% (500 ml)
+Solución Fisiológica	Solución parenteral de gran volumen	0,9% (1.000 ml)
+Solución glucosada clorurada	Solución parenteral de gran volumen	500 ml
+Solución glucosada clorurada	Solución parenteral de gran volumen	1.000 ml
+Solución para dialisis peritoneal I	Solución parenteral de gran volumen	1.000 ml
+Solución para dialisis peritoneal II	Solución parenteral de gran volumen	1.000 ml
+Solución ringer lactato	Solución parenteral de gran volumen	500 ml
+Solución ringer lactato	Solución parenteral de gran volumen	1.000 ml
+Solución ringer normal	Solución parenteral de gran volumen	500 ml
+Solución ringer normal	Solución parenteral de gran volumen	1.000 ml
+Sulfato de magnesio	Inyectable	10%
+Solución Fisiológica	Solución parenteral	0,9% (150 ml)
+Solución para dialisis intraperitoneal (de acuerdo a composición apropiada)	Solución parenteral	Según disponibilidad
+Solución de glucosa	Solución parenteral	10% (250 ml)
+Solución Fisiológica	Solución parenteral	0,9% (100 ml)
+Adenosina	Inyectable	6 mg/2 ml
+Amiodarona (clorhidrato)	Comprimido	200 mg
+Amiodarona (clorhidrato)	Inyectable	50 mg/ml
+Digoxina	Solución oral gotas	0,75 mg/ml
+Digoxina	Inyectable	0,25 mg/ml
+Digoxina	Comprimido ranurado	0,25 mg
+Dinitrato de isosorbida (Isosorbide dinitrato)	Comprimido sublingual	5 mg
+Dobutamina clorhidrato	Inyectable	250 mg
+Dopamina clorhidrato	Inyectable	200 mg
+Epinefrina (Adrenalina)	Inyectable	1 mg/ml
+Isosorbida Mononitrato	Comprimido	20 mg
+Nitroglicerina (Trinitrato de glicerol)	Inyectable	5 mg/ml
+Etilefrina	Inyectable	10 mg/ml
+Ibuprofeno	Inyectable	5 mg/ml
+Noradrenalina	Inyectable	1 mg/ml
+Milrinona	Inyectable	1 mg/ml
+Hidralazina clorhidrato	Inyectable	20 mg/ml
+Metildopa (Alfametildopa)	Comprimido	500 mg
+Nitroprusiato de sodio	Inyectable	25 mg/ml
+Hidralazina clorhidrato	Comprimido	25 mg
+Sildenafilo	Comprimido	50 mg
+Acetazolamida	Comprimido	250 mg
+Espironolactona	Comprimido	100 mg
+Espironolactona	Comprimido	25 mg
+Furosemida	Comprimido ranurado	40 mg
+Furosemida	Inyectable	10 mg/ml
+Hidroclorotiazida	Comprimido ranurado	50 mg
+Hidroclorotiazida + Amilorida	Comprimido	50 mg + 5 mg
+Corticoide + anestésico	Supositorio	Según disponibilidad
+Corticoide + anestésico	Crema o Pomada	Según disponibilidad
+Atenolol	Comprimido ranurado	100 mg
+Propranolol	Comprimido	40 mg
+Propranolol	Inyectable	1 mg/ml
+Carvedilol	Comprimido	6,25 mg
+Carvedilol	Comprimido	12,5 mg
+Bisoprolol	Comprimido	5 mg
+Labetalol	Inyectable	20 mg
+Nimodipina	Comprimido	30 mg
+Nimodipina	Inyectable	0,2 mg/ml
+Verapamilo	Comprimido	80 mg
+Verapamilo	Inyectable	2,5 mg/ml
+Verapamilo	Comprimido	40 mg
+Amlodipina	Comprimido	10 mg
+Nifedipino	Comprimido o Cápsula	10 mg
+Enalapril maleato	Comprimido ranurado	10 mg
+Losartán	Comprimido	50 mg
+Atorvastatina	Comprimido	10 mg
+Gemfibrozilo	Comprimido	600 mg
+Rosuvastatina	Comprimido	20 mg
+Fenofibrato	Cápsula o Comprimido	200 mg
+Atorvastatina	Comprimido	20 mg
+Ácido salicílico	Solución tópica	5%
+Bacitracina + Neomicina sulfato	Crema o Pomada	500 UI + 5 mg/g
+Clotrimazol	Crema o Pomada	1%
+Nistatina	Crema o Pomada	100.000 Ul/g
+Tiabendazol	Crema o Pomada	5%
+Tolnaftato	Solución	1%
+Violeta de genciana (Cloruro de metilrosanilina)	Solución	1%
+Terbinafina	Comprimido	250 mg
+Glicerol (Glicerina bidestilada)	Solución 1 l	Según disponibilidad
+Oxido de Zinc con o sin aceite	Pasta o Pomada	Según disponibilidad
+Ungüento dérmico eucalipto mentol	Ungüento o Crema	Según disponibilidad
+Vaselina liquida	Solución 1 l	Según disponibilidad
+Vaselina sólida	Pasta 1 Kg	Según disponibilidad
+Trolamina	Emulsión dérmica	0,67%
+Lidocaína	Gel o Jalea	2%
+Lidocaína clorhidrato	Solución para atomización	10%
+Resina de Podofilo (Podofilina)	Solución tópica	10% - 25%
+Sulfadiazina de plata	Crema o Pomada	1%
+Aciclovir	Crema dérmica	5%
+Betametasona (valerato)	Crema o Pomada	0,1%
+Clobetasol	Crema o Pomada	0,05%
+Clobetasol	Solución	0,05%
+Hidrocortisona acetato	Crema o Pomada	1%
+Alcohol etílico (Etanol)	Solución 1 l	70% a 95%
+Clorhexidina gluconato	Solución	Según disponibilidad
+Eter alifático dietilamino etanol	Solución 1 l	Según disponibilidad
+Formaldehido	Solución	40% p/v
+Hipoclorito de sodio	Solución	8%
+Iodo (Yodo)	Solución hidroalcohólica	2%
+Iodo povidona (Yodopovidona)	Crema o Pomada	10% (500 g)
+Iodo povidona (Yodopovidona)	Solución	10%
+Nitrofural (Nitrofurazona)	Crema o Pomada	0,2% (450 g)
+Peróxido de hidrógeno (Agua oxigenada)	Solución	2% ο 3%
+Eritromicina	Loción	2% a 4%
+Peróxido de Benzoílo	Loción	5%
+Peróxido de Benzoílo	Crema, Pomada o Gel	5%
+Resorcinol	Crema o Pomada	10%
+Hidroquinona	Loción	4% ο 5%
+Hidroquinona	Crema a Pomada	4% - 5%
+Ácido acético (Ácido tricloroacético)	Solución tópica	50%
+Clotrimazol	Óvulo	100 mg
+Clotrimazol	Crema vaginal	1%
+Metronidazol	Óvulo	500 mg
+Nistatina	Óvulo	100.000 UI
+Bromocriptina	Comprimido	2,5 mg
+Bromocriptina	Comprimido	5 mg
+Ergometrina maleato	Comprimido	0,2 mg
+Ergometrina maleato	Inyectable	0,2 mg/ml
+Ritodrina	Comprimido	10 mg
+Ritodrina	Inyectable	10 mg/ml
+Misoprostol	Comprimido vaginal	25 mcg
+Oxitocina	Inyectable	5 Ul/ml o 10 Ul/ml
+Mifepristona	Comprimido	200 mg
+Cabergolina	Comprimido	0,5 mg
+Ciproterona acetato + Estradiol valerato	Comprimido	2 mg + 1 mg
+Ciproterona acetato + Estradiol valerato	Comprimido	2 mg + 0,035 mg
+Clomifeno citrato	Comprimido	50 mg
+Estradiol + Noretisterona acetato	Comprimido	2mg + 1mg
+Estradiol valerianato + Norgestrel	Comprimido	2 mg + 0,5 mg
+Estradiol valerianato + Prasterona enantato	Inyectable	4 mg + 200 mg/ml
+Estrógenos conjugados	Comprimido	0,625 mg
+Estrógenos conjugados	Comprimido	1,25 mg
+Estrógenos conjugados	Crema vaginal	0,625 mg
+Gonadotrofina coriónica	Inyectable	5.000 UI/ml
+Levonorgestrel	Comprimido	0,75 mg
+Levonorgestrel + Etinilestradiol	Comprimido	0,150 mg + 0,03 mg
+Medroxiprogesterona acetato	Inyectable	150 mg/ml
+Medroxiprogesterona acetato	Comprimido	10 mg
+Noretisterona	Comprimido	5 mg
+Norgestrel + Etinilestradiol	Comprimido	0,3 mg + 0,03 mg ó 0,5 mg + 0,05 mg
+Testosterona undecanoato	Inyectable	1.000 mg
+Levonorgestrel	Implante subdérmico	150 mg
+Levonorgestrel	Comprimido	1,5 mg
+Medroxiprogesterona acetato	Inyectable	104 mg/0,65ml
+Progesterona	Cápsula	200 mg
+Finasterida	Comprimido	5 mg
+Corticotrofina (ACTH)	Inyectable	25 UI o 40 UI
+Desmopresina acetato	Solución nasal	0,1 mg/ml
+Terlipresina	Inyectable	1 mg
+Somatropina	Inyectable	4UI (1,33 mg)
+Carbetocina	Inyectable	100 mcg/ml
+Betametasona (fosfato)	Inyectable	4 mg
+Dexametasona	Comprimido	4 mg
+Dexametasona	Comprimido	0,5 mg
+Dexametasona	Inyectable	4 mg/ml
+Hidrocortisona succinato sódico	Inyectable	100 mg
+Hidrocortisona succinato sódico	Inyectable	250 mg
+Metilprednisolona succinato sódico	Inyectable	500 mg
+Prednisona	Comprimido	5 mg
+Prednisona	Comprimido ranurado	20 mg
+Prednisona	Suspensión	1 mg/ml
+Levotiroxina sódica	Comprimido ranurado	0,1 mg
+Propiltiouracilo	Comprimido	50 mg
+Levotiroxina sódica	Comprimido	0,05 mg
+Tiamazol (Metimazol)	Comprimido	20 mg
+Ácido nalidíxico	Comprimido	500 mg
+Ácido nalidíxico	Suspensión	250 mg/5 ml
+Ácido nalidíxico	Suspensión	125 mg/5 ml
+Amikacina	Inyectable	500mg/2 ml
+Amoxicilina	Comprimido	1 g
+Amoxicilina	Comprimido	500 mg
+Amoxicilina	Inyectable	1 g
+Amoxicilina + inhibidor betalactamasa	Comprimido	500 mg + Según disponibilidad
+Amoxicilina + inhibidor betalactamasa	Suspensión	250 mg + Según disponibilidad
+Amoxicilina + inhibidor betalactamasa	Inyectable	1 g + Según disponibilidad
+Ampicilina	Inyectable	1 g
+Azitromicina	Comprimido	500 mg
+Bencilpenicilina benzatínica	Inyectable	600.000 UI
+Bencilpenicilina benzatínica	Inyectable	1.200.000 UI
+Bencilpenicilina benzatínica	Inyectable	2.400.000 UI
+Bencilpenicilina procaínica	Inyectable	400.000 UI
+Bencilpenicilina procaínica	Inyectable	800.000 UI
+Bencilpenicilina sódica	Inyectable	1.000.000 UI
+Bencilpenicilina sódica	Inyectable	30.000.000 UI
+Cefazolina	Inyectable	1 g
+Cefotaxima	Inyectable	1 g
+Cefradina	Cápsula o Comprimido	500 mg
+Cefradina	Suspensión	250 mg/5 ml
+Ceftazidima	Inyectable	1 g
+Ceftriaxona	Inyectable	1 g
+Ciprofloxacina	Comprimido	500 mg
+Ciprofloxacina	Inyectable	200 mg
+Claritromicina	Comprimido	500 mg
+Claritromicina	Suspensión	250 mg/5 ml
+Clindamicina	Suspensión o Jarabe	75 mg/5 ml
+Cloranfenicol	Cápsula	500 mg
+Cloranfenicol succinato sódico	Inyectable	1 g
+Cloxacilina	Inyectable	500 mg
+Cloxacilina	Inyectable	1 g
+Cotrimoxazol (Sulfametoxazol + Trimetoprima)	Comprimido	800 mg + 160 mg
+Cotrimoxazol (Sulfametoxazol + Trimetoprima)	Suspensión	200 mg + 40 mg/5 ml
+Cotrimoxazol (Sulfametoxazol + Trimetoprima)	Comprimido	100 mg + 20 mg
+Cotrimoxazol (Sulfametoxazol + Trimetoprima)	Comprimido	400 mg + 80 mg
+Dicloxacilina sódica	Cápsula	500 mg
+Dicloxacilina sódica	Suspensión	250 mg/5 ml
+Doxiciclina	Cápsula o Comprimido	100 mg
+Eritromicina (estearato)	Cápsula o Comprimido	500 mg
+Eritromicina (etilsuccinato)	Suspensión	250 mg/5 ml
+Espiramicina	Comprimido	500 mg
+Gentamicina sulfato	Inyectable	20 mg
+Gentamicina sulfato	Inyectable	80 mg
+Imipenem + Cilastatina	Inyectable	500 mg + 500 mg
+Nitrofurantoína	Comprimido	100 mg
+Nitrofurantoína	Suspensión	25 mg/5 ml
+Ofloxacina	Comprimido	400 mg
+Tetraciclina	Cápsula o Comprimido	500 mg
+Vancomicina	Inyectable	500 mg
+Clindamicina	Cápsula o Comprimido	300 mg
+Amoxicilina	Suspensión	500 mg/5 ml
+Cefixima	Comprimido o Cápsula	400 mg
+Ofloxacina	Comprimido	200 mg
+Cotrimoxazol (Sulfametoxazol + Trimetoprima)	Inyectable	400 mg + 80 mg/5 ml
+Ciprofloxacina	Comprimido	250 mg
+Azitromicina	Suspensión	200 mg/5 ml
+Cefixima	Suspensión	100 mg/5 ml
+Clindamicina	Inyectable	600 mg
+Cotrimoxazol (Sulfametoxazol + Trimetoprima)	Suspensión	400 mg + 80 mg/5 ml
+Levofloxacina	Comprimido	500 mg
+Colistina	Inyectable	100 mg
+Levofloxacina	Inyectable	500 mg
+Meropenem	Inyectable	500 mg
+Linezolid	Comprimido	600 mg
+Amoxicilina + inhibidor betalactamasa	Comprimido	875 mg + Según disponibilidad
+Moxifloxacina	Comprimido	400 mg
+Minociclina	Comprimido	100 mg
+Cefepima	Inyectable	1 g
+Piperacilina + tazobactam	Inyectable	4 g/500 mg
+Amfotericina B	Inyectable	50 mg
+Fluconazol	Inyectable	200 mg
+Griseofulvina	Comprimido	500 mg
+Griseofulvina	Suspensión	125 mg/5 ml
+Fluconazol	Comprimido o Cápsula	150 mg
+Voriconazol	Polvo para inyectable	200 mg
+Cicloserina	Cápsula	250 mg
+Clofazimina	Cápsula	50 mg
+Dapsona	Comprimido	100 mg
+Estreptomicina sulfato	Inyectable	1 g
+Etambutol	Comprimido	400 mg
+Etionamida	Comprimido	250 mg
+Isoniazida (INH)	Comprimido	100 mg
+Pirazinamida	Comprimido	500 mg
+Rifampicina	Suspensión	100 mg/5 ml
+Rifampicina	Cápsula o Comprimido	300 mg
+Acido p-aminosalicilico	Polvo para solución oral	4 g
+Capreomicina	Inyectable	1 g
+Kanamicina	Inyectable	1 g
+Rifampicina + Isoniazida (INH)	Comprimido	300 mg + 150 mg
+Clofazimina	Cápsula	100 mg
+Dapsona	Comprimido	50 mg
+Rifampicina	Cápsula o Comprimido	150 mg
+Bedaquilina	Comprimido	100 mg
+Delamanid	Comprimido	100 mg
+Rifampicina, Dapsona	Comprimido	300 mg + 50 mg
+Rifampicina, Dapsona	Comprimido	300 mg + 100 mg
+Rifampicina, Clofazimina, Dapsona	Comprimido	300 mg + 50 mg + 50 mg
+Rifampicina, Clofazimina, Dapsona	Comprimido	300 mg + 100 mg + 100 mg
+Abacavir	Comprimido	300 mg
+Aciclovir	Comprimido	400 mg
+Efavirenz	Comprimido	600 mg
+Lamivudina	Comprimido	150 mg
+Lamivudina	Jarabe o Solución Oral	10 mg/ml
+Nevirapina	Comprimido	200 mg
+Nevirapina	Suspensión	10 mg/ml
+Ritonavir	Cápsula blanda	100 mg
+Zidovudina	Inyectable	10 mg/ml
+Zidovudina	Suspensión oral	10 mg/ml
+Zidovudina + Lamivudina	Comprimido	300 mg + 150 mg
+Tenofovir disoproxilo	Comprimido	245 mg (Equiv. a 300 mg como fumarato)
+Valganciclovir	Comprimido	450 mg
+Aciclovir	Suspensión	200 mg/5 ml
+Atazanavir (sulfato)	Cápsula o Comprimido	300 mg
+Darunavir	Comprimido	600 mg
+Efavirenz	Comprimido	200 mg
+Lopinavir + Ritonavir	Comprimido	200 mg + 50 mg
+Lopinavir + Ritonavir	Solución oral	80 mg + 20 mg/ml
+Oseltamivir	Cápsula	75 mg
+Raltegravir (potasico)	Comprimido	400 mg
+Tenofovir disoproxilo + Lamivudina + Efavirenz	Comprimido	300 mg + 600 mg + 300 mg
+Atazanavir + Ritonavir	Cápsula o Comprimido	300 mg + 100 mg
+Daclatasvir	Cápsula o Comprimido	60 mg
+Sofosbuvir	Comprimido	400 mg
+Aciclovir	Comprimido	200 mg
+Aciclovir	Comprimido	800 mg
+Aciclovir	Inyectable	250 mg
+Aciclovir	Inyectable	500 mg
+Ledipasvir + Sofosbuvir	Comprimido	90 mg + 400 mg
+Oseltamivir	Suspensión	30 mg/5 ml
+Oseltamivir	Suspensión	12 mg/ml
+Favipiravir	Comprimido recubierto	200 mg
+Antitóxina tetánica	Inyectable	Norma PAI según disponibilidad
+Inmunoglobulina anti D (RH +)	Inyectable	0,1 mg/ml a 0,2 mg/ml
+Inmunoglobulina humana normal	Inyectable	5 g IV
+Suero Antilatrodectus	Inyectable	Según disponibilidad
+Suero Antiofidico Botrópico Crotálico	Inyectable	Según disponibilidad
+Suero Antiofidico Botrópico Laquésico	Inyectable	Según disponibilidad
+Suero Antirrábico (heterólogo)	Inyectable	Según disponibilidad
+Suero Antiescorpionico	Inyectable	Según disponibilidad
+Toxoide tetánico adsorbido	Inyectable	120 UI/ml
+Vacuna antiamarílica	Inyectable	Norma PAI (20 dosis)
+Vacuna antiamarílica	Inyectable	Norma PAI (10 dosis)
+Vacuna antiamarílica	Inyectable	Norma PAI (5 dosis)
+Vacuna antihepatitis B	Inyectable	Norma PAI
+Vacuna antirrábica	Inyectable	1 UI/ml
+Vacuna BCG	Inyectable	Norma PAI
+Vacuna doble dT (difteria, Tétanos)	Inyectable	Norma PAI
+Vacuna pentavalente (DPT + Hep. B + H. Influenzae B)	Inyectable	Norma PAI
+Vacuna SR (Sarampión, Rubeola)	Inyectable	Norma PAI
+Vacuna SRP (Sarampión, Rubeola; Paperas)	Inyectable	Norma PAI Multidosis
+Vacuna SRP (Sarampión, Rubeola; Paperas)	Inyectable	Norma PAI (Unidosis)
+Vacuna Triple DPT (Difteria, Pertusis, Tetanos)	Inyectable	Norma PAI
+Vacuna Antirotavírica	Solución oral	Norma PAI Multidosis
+Vacuna Antirotavírica	Solución oral	Norma PAI (Unidosis)
+Vacuna contra Influenza (Pediátrica)	Inyectable	Norma PAI (10 dosis)
+Vacuna contra Influenza (Adulto)	Inyectable	Norma PAI (10 dosis)
+Vacuna antineumococo (13 valente)	Inyectable	Norma PAI (Unidosis)
+Vacuna antipoliomielítica bivalente	Solución oral	Norma PAI
+Vacuna antipoliomielítica inactivada	Inyectable	Norma PAI
+Vacuna Antirrábica de uso Humano (Cultivo Celular)	Inyectable	2,5 U.I./0,5 ml
+Vacuna cuadrivalente recombinante contra el Virus del Papiloma Humano	Inyectable	Norma PAI
+Vacuna contra COVID-19	Inyectable	Norma PAI
+Bleomicina	Inyectable	15 UI
+Busulfano	Comprimido	2 mg
+Capecitabine	Comprimido	500 mg
+Carboplatino	Inyectable	450 mg
+Ciclofosfamida	Inyectable	500 mg
+Ciclofosfamida	Inyectable	1 g
+Ciclofosfamida	Comprimido	50 mg
+Cisplatino	Inyectable	10 mg
+Cisplatino	Inyectable	50 mg
+Citarabina	Inyectable	100 mg
+Citarabina	Inyectable	500 mg
+Dacarbazina	Inyectable	200 mg
+Dactinomicina	Inyectable	0,5 mg/ml
+Doxorubicina clorhidrato (Adriamicina clorh.)	Inyectable	10 mg
+Doxorubicina clorhidrato (Adriamicina clorh.)	Inyectable	50 mg
+Etopósido	Inyectable	100 mg/5 ml
+Fluorouracilo	Inyectable	500 mg/10 ml
+Gemcitabina	Inyectable	1 g
+Hidroxiurea	Cápsula	500 mg
+Ifosfamida	Inyectable	1 g
+Asparaginasa	Inyectable	10.000 UI
+Melfalán	Comprimido	2 mg
+Mercaptopurina	Comprimido ranurado	50 mg
+Metotrexato	Inyectable	50 mg
+Metotrexato	Inyectable	500 mg
+Metotrexato	Comprimido	2,5 mg
+Mitomicina	Inyectable	20 mg
+Paclitaxel	Inyectable	30 mg/5 ml
+Vincristina	Inyectable	1 mg/ml
+Vinorelbina	Inyectable	50 mg
+Carboplatino	Inyectable	150 mg
+Gemcitabina	Inyectable	200 mg
+Oxaliplatino	Inyectable	50 mg
+Oxaliplatino	Inyectable	100 mg
+Bevacizumab	Inyectable	25 mg/ml
+Daunorrubicina	Inyectable	20 mg
+Docetaxel	Inyectable	40 mg/ml (2ml)
+Vinblastina	Inyectable	10 mg
+Irinotecan	Inyectable	100 mg/5 ml
+Rituximab	Inyectable	500 mg/50 ml
+Trastuzumab	Inyectable	440 mg
+Trastuzumab	Inyectable	600 mg
+Dasatinib	Comprimido	20 mg
+Dasatinib	Comprimido	50 mg
+Dasatinib	Comprimido	70 mg
+Dasatinib	Comprimido	100 mg
+Doxorrubicina liposomal pegilada	Inyectable	20 mg/10 ml
+Imatinib	Comprimido	100 mg
+Imatinib	Comprimido	400 mg
+Temozolomida	Cápsula	20 mg
+Temozolomida	Cápsula	100 mg
+Temozolomida	Cápsula	250 mg
+Nimotuzumab	Inyectable	50 mg
+Bortezomib	Polvo para inyectable	3,5 mg
+Rituximab	Inyectable	100 mg/10 ml
+Pazopanib	Comprimido	200 mg
+Pertuzumab	Inyectable	420 mg/14 ml
+Erlotinib	Comprimido	150 mg
+Paclitaxel	Inyectable	300 mg/50ml
+Pegaspargasa	Pleglabe frasco vial	750 mg/ml
+Fludarabina	Inyectable	50 mg
+Melfalan	Inyectable	50 mg
+Anastrozol	Comprimido	1 mg
+Ciproterona (acetato)	Comprimido	50 mg
+Flutamida	Comprimido	250 mg
+Letrozol	Comprimido	2,5 mg
+Tamoxifeno	Comprimido	20 mg
+Triptorelina	Inyectable	11,25 mg
+Triptorelina	Inyectable	22,5 mg
+Abiraterona Acetato	Comprimido	250 mg
+Leuprolide	Inyectable	7,5 mg
+Enzalutamida	Cápsula	40 mg
+Bicalutamida	Comprimido	50 mg
+Filgrastrim	Inyectable	300 mcg/ml
+Interferon alfa 2 b recombinante	Inyectable	10.000.000 Ul con diluyente (1 ml)
+Interferon alfa 2 b recombinante	Inyectable	3.000.000 UI con diluyente (1 ml)
+Interferon beta	Inyectable	0,3 mg
+Azatioprina	Comprimido	50 mg
+Azatioprina	Inyectable	20 mg/ml
+Ciclosporina	Solución oral	100 mg/ml
+Ciclosporina	Cápsula blanda	100 mg
+Ciclosporina	Cápsula blanda	25 mg
+Ciclosporina	Cápsula blanda	50 mg
+Micofenolato de mofetilo	Comprimido	500 mg
+Talidomida	Comprimido	100 mg
+Basiliximab	Polvo para inyectable	20 mg
+Tacrolimus	Cápsula	1 mg
+Globulina Anti-timocito	Inyectable	250 mg/5ml
+Leflunomida	Comprimido	20 mg
+Leflunomida	Comprimido	100 mg
+Lenalidomida	Cápsula	5 mg
+Lenalidomida	Cápsula	10 mg
+Lenalidomida	Cápsula	15 mg
+Lenalidomida	Cápsula	25 mg
+Fingolimod	Cápsula	0,5 mg
+Globulina Anti timocito (conejo)	Inyectable	25 mg
+Diclofenaco Sódico	Pomada o Gel	1%
+Diclofenaco Sódico	Comprimido	50 mg
+Diclofenaco Sódico	Inyectable	75 mg
+Ibuprofeno	Suspensión	100 mg/5 ml
+Ibuprofeno	Comprimido	400 mg
+Indometacina	Cápsula o Comprimido	25 mg
+Indometacina	Supositorio	100 mg
+Penicilamina	Comprimido	250 mg
+Ketorolaco	Inyectable	30 mg/ml
+Ketoprofeno	Inyectable	100 mg
+Meloxicam	Comprimido	15 mg
+Atracurio besilato	Inyectable	10 mg/ml
+Mivacuronio	Inyectable	2 mg/ml
+Rocuronio bromuro	Inyectable	10 mg/ml
+Suxametonio (Succinil colina)	Inyectable	500 mg
+Alopurinol	Comprimido	300 mg
+Colchicina	Comprimido	0,5 mg
+Ácido Alendrónico (Alendronato)	Comprimido	70 mg
+Ácido Zoledrónico	Inyectable	4 mg
+Bupivacaina clorhidrato	Inyectable	0,5%
+Bupivacaina clorhidrato (pesada)	Inyectable	0,5%
+Bupivacaina clorhidrato con Epinefrina sin conservante	Inyectable	0,5% 1:200.000
+Droperidol	Inyectable	2,5 mg/ml
+Fentanilo con conservante	Inyectable	0,05 mg/ml
+Fentanilo sin conservante	Inyectable	0,05 mg/ml
+Halotano	Solución	0,01% de timol
+Ketamina (Cetamina)	Inyectable	50 mg/ml
+Lidocaína	Cartucho dental	2%
+Lidocaína clorhidrato + Epinefrina	Inyectable	2% 1:200.000
+Lidocaína clorhidrato + Epinefrina	Cartucho dental	2% 1:200.000
+Lidocaína clorhidrato sin conservante	Inyectable	2%
+Propofol	Inyectable	10 mg/ml
+Sevoflurano (Trifluorometil etil)	Solución	250 ml
+Tiopental sódico	Inyectable	1 g
+Remifentanilo	Inyectable	5 mg
+Ácido acetil salicílico	Comprimido	500 mg
+Codeína	Comprimido	30 mg
+Ergotamina tartrato + Cafeína	Comprimido	1 mg + 100 mg
+Metadona	Comprimido	5 mg
+Metamizol (Dipirona)	Inyectable	1 g
+Morfina	Cápsula o Comprimido	10 mg
+Morfina (con y sin conservante)	Inyectable	10 mg/ml
+Paracetamol (Acetaminofeno)	Comprimido	500 mg
+Paracetamol (Acetaminofeno)	Jarabe	120 mg/5 ml o 125 mg/5 ml
+Paracetamol (Acetaminofeno)	Gotas	100 mg/ml
+Paracetamol (Acetaminofeno)	Supositorio	100 mg
+Paracetamol (Acetaminofeno)	Comprimido	100 mg
+Petidina (Meperidina)	Inyectable	100 mg
+Tramadol	Inyectable	100 mg/2 ml
+Tramadol	Comprimido	50 mg
+Naratriptan	Comprimido	2,5 mg
+Tramadol	Solución para gotas orales	100 mg/ml
+Paracetamol (Acetaminofeno)	Inyectable	1 gr
+Ácido Valpróico ó Valproato sódico	Jarabe o Solución oral	200 mg/5 ml
+Ácido Valpróico ó Valproato sódico	Jarabe o Solución oral	250 mg/5 ml
+Ácido Valpróico ó Valproato sódico	Cápsula o Comprimido	500 mg
+Carbamazepina	Comprimido	200 mg
+Carbamazepina	Suspensión o Jarabe	2% (100 mg/5 ml)
+Clonazepam	Comprimido ranurado	2 mg
+Fenitoína	Inyectable	50 mg/ml
+Fenitoína	Cápsula o Comprimido	100 mg
+Fenobarbital	Comprimido	100 mg
+Fenobarbital	Gotas	20 mg/ml
+Fenobarbital	Inyectable	100 mg/ml
+Clonazepam	Solución oral	2,5 mg/ml
+Lamotrigina	Comprimido	25 mg
+Lamotrigina	Comprimido	50 mg
+Lamotrigina	Comprimido	100 mg
+Lamotrigina	Comprimido	200 mg
+Pregabalina	Comprimido o Cápsula	50 mg
+Pregabalina	Comprimido o Cápsula	75 mg
+Pregabalina	Comprimido o Cápsula	150 mg
+Ácido Valpróico ó Valproato sódico	Jarabe o Solución Oral	200 mg/ml
+Biperideno clorhidrato	Comprimido	4 mg
+Levodopa + Carbidopa	Comprimido	250 mg + 25 mg
+Alprazolam	Comprimido ranurado	0,5 mg
+Clorpromazina	Comprimido	100 mg
+Clorpromazina	Inyectable	12,5 mg/ml
+Diazepam	Comprimido ranurado	10 mg
+Diazepam	Inyectable	10 mg
+Diazepam	Comprimido ranurado	5 mg
+Haloperidol	Solución oral	2 mg/ml
+Haloperidol	Comprimido	5 mg
+Haloperidol decanoato	Inyectable	50 mg/ml
+Litio carbonato	Comprimido	300 mg
+Midazolam	Inyectable	15 mg/3 ml
+Risperidona	Comprimido	3 mg
+Tioridazina	Suspensión	100 mg/5 ml
+Tioridazina	Comprimido	100 mg
+Aripiprazol	Comprimido	10 mg
+Aripiprazol	Comprimido	15 mg
+Haloperidol	Inyectable	5 mg/ml
+Quetiapina	Comprimido	100 mg
+Dexmedetomidina	Inyectable	100 mcg/ml
+Amitriptilina	Comprimido ranurado	25 mg
+Clomipramina	Comprimido	75 mg
+Clomipramina (clorhidrato)	Inyectable	25 mg/2 ml
+Fluoxetina	Cápsula o Comprimido	20 mg
+Imipramina clorhidrato	Comprimido	25 mg
+Metilfenidato	Comprimido	10 mg
+Duloxetina	Cápsula	30 mg
+Cafeina citrato	Inyectable	20 mg/ml
+Dimenhidrinato	Comprimido	50 mg
+Dimenhidrinato	Supositorio	50 mg
+Dimenhidrinato	Inyectable	50 mg/ml
+Neostigmina	Inyectable	0,5 mg/ml
+Piridostigmina	Comprimido	60 mg
+Flunarizina	Comprimido	10 mg
+Artesunato	Comprimido	50 mg
+Benznidazol	Comprimido	100 mg
+Cloroquina fosfato	Comprimido	250 mg (150 mg base)
+Mefloquina (clorhidrato)	Comprimido	250 mg
+Meglumina antimoniato	Inyectable	1,5 g/5 ml
+Metronidazol	Suspensión	250 mg/5 ml
+Metronidazol	Inyectable	500 mg
+Metronidazol	Suspensión	125 mg/5 ml
+Metronidazol	Comprimido	500 mg
+Nifurtimox	Comprimido	120 mg
+Nitazoxanida	Comprimido	500 mg
+Pentamidina	Inyectable	200 mg
+Pentamidina	Inyectable	300 mg
+Pirimetamina	Comprimido	25 mg
+Primaquina (base)	Comprimido	15 mg
+Primaquina (base)	Suspensión	15 mg/5 ml
+Quinina (bisulfato o sulfato)	Comprimido	300 mg
+Quinina (diclorhidrato)	Inyectable	600 mg
+Sulfadoxina + Pirimetamina	Comprimido	500 mg + 25 mg
+Primaquina (base)	Comprimido	5 mg
+Artesunato + Mefloquina	Comprimido	25 mg + 55 mg
+Artesunato + Mefloquina	Comprimido	100 mg + 220 mg
+Artemeter + Lumefantrina	Comprimido	20 mg + 120 mg
+Artesunato	Inyectable	60 mg
+Benznidazol	Comprimido	12,5 mg
+Nitazoxanida	Jarabe	100 mg/5 ml
+Hidroxicloroquina sulfato	Comprimido	200 mg
+Benznidazol	Comprimido	50 mg
+Nifurtimox	Comprimido	30 mg
+Nifurtimox	Comprimido	250 mg
+Albendazol	Comprimido	200 mg
+Albendazol	Suspensión	200 mg/5 ml
+Mebendazol	Comprimido	100 mg
+Mebendazol	Suspensión	100 mg/5 ml
+Mebendazol	Comprimido	500 mg
+Niclosamida	Comprimido	500 mg
+Pirantel pamoato	Comprimido	250 mg
+Pirantel pamoato	Suspensión	250 mg/5 ml
+Prazicuantel	Comprimido	600 mg
+Tiabendazol	Comprimido	500 mg
+Tiabendazol	Suspensión	500 mg/5 ml
+Triclabendazol	Comprimido	250 mg
+Ivermectina	Comprimido	3 mg
+Ivermectina	Comprimido	6 mg
+Benzoato de bencilo	Solución o Loción	20% - 25%
+Permetrina	Loción	1%
+Permetrina	Crema o Pomada	5%
+Aminofilina	Inyectable	250 mg/10 ml
+Aminofilina	Comprimido	200 mg
+Beclometasona dipropionato	Aerosol	50 mcg/inhalación
+Salbutamol	Solución para nebulización	5 mg/ml
+Salbutamol	Comprimido	4 mg
+Salbutamol	Aerosol	0,1 mg/inhalación
+Teofilina	Comprimido	300 mg
+Ipratropio bromuro	Aerosol	20 mcg/dosis
+Salmeterol + Fluticasona	Aerosol	25 mcg + 125 mcg
+Budesonida	Aerosol	100 mcg
+Montelukast	Comprimido o Cápsula	10 mg
+Montelukast	Comprimido	5 mg
+Antigripal (Paracetamol + Antihistamínico + Vasoconstrictor con o sin Cafeína)	Comprimido	Según disponibilidad
+Codeína	Jarabe	10 mg/5 ml
+Dextrometorfano bromhidrato	Jarabe	10 mg/5 ml
+Clorfenamina (Clorfeniramina)	Comprimido	4 mg
+Clorfenamina (Clorfeniramina)	Jarabe	2 mg/5 ml
+Clorfenamina (Clorfeniramina)	Inyectable	10 mg/ml
+Ketotifeno	Comprimido	1 mg
+Cetirizina	Cápsula o Comprimido	10 mg
+Cetirizina	Jarabe	5 mg/5 ml
+Surfactante pulmonar	Inyectable	25 a 35 mg/ml
+Aciclovir	Crema o Pomada oftálmica	3%
+Atropina sulfato	Solución oftálmica	1%
+Ciclosporina	Solución oftálmica	0,1%
+Ciprofloxacina	Solución oftálmica	0,3%
+Cloranfenicol	Solución oftálmica	0,5%
+Cloranfenicol	Ungüento oftálmico	1%
+Dexametasona	Solución oftálmica	0,1%
+Dexametasona	Ungüento o Pomada oftálmica	0,1%
+Diclofenaco Sódico	Solución oftálmica	0,1%
+Dorzolamida	Solución oftálmica	2%
+Fluoresceina	Inyectable	10%
+Fluoresceina (sal sódica)	Solución oftálmica	0,25%
+Gentamicina	Ungüento oftálmico	0,3%
+Gentamicina	Solución oftálmica	0,3%
+Ketotifeno	Solución oftálmica	0,25 mg/ml
+Lágrimas artificiales	Solución oftálmica	0,3% ο 1%
+Nafazolina clorhidrato	Solución oftálmica	0,1%
+Proximetacaina (Proparacaina)	Solución oftálmica	0,5%
+Solución Fisiológica	Solución Nasal	0,9% (15 a 30 ml)
+Timolol maleato	Solución oftálmica	0,5%
+Tropicamida	Solución oftálmica	1%
+Corticoide + antiinfeccioso de accion tópica	Solución oftálmica	Según disponibilidad
+Corticoide + antiinfeccioso de accion tópica	Ungüento oftálmico	Según disponibilidad
+Lágrimas artificiales	Gel	0,3% ο 1%
+Latanoprost	Solución oftálmica	50 mcg/ml
+Glicerina + carbonato de sodio	Gotas óticas	Según disponibilidad
+Acetil Cisteina	Inyectable	10%
+Deferoxamina mesilato	Inyectable	500 mg
+Dimercaprol (B.A.L.)	Inyectable	100 mg/ml
+Edetato sódico de calcio (EDTA)	Inyectable	20%
+Flumazenil	Inyectable	0,5 mg/5 ml
+Ipecacuana	Jarabe	7%
+Leucovorina	Inyectable	50 mg
+Mesna (Mercapto etilsulfonato sódico)	Inyectable	400 mg
+Naloxona	Inyectable	0,4 mg/ml
+Oxígeno	Gas	93%-99%
+Permanganato de potasio	Solución acuosa	1:10.000
+Pralidoxima	Inyectable	1 g
+Protamina Sulfato	Inyectable	10 mg/ml
+Leucovorina (Folinato de calcio)	Comprimido	15 mg
+Proteinas para alimentación enteral (alimento)	Polvo	Según disponibilidad
+Alimentos Terapéutico Listo para Uso (ATLU)	Polvo, Pasta o Granulado	Según concentración estándar
+Complemento nutricional (Nutribebé)	Polvo	Según concentración estándar
+Complemento nutricional (Carmelo)	Polvo	Según concentración estándar
+Complemento nutricional	Polvo	Según concentración estándar
+Complemento nutricional (Diabético)	Polvo	Según concentración estándar
+Solucion de preservación de organos sólidos HTK	Solución	Según disponibilidad
+Contraste iodado	Inyectable	Según disponibilidad (10 ml)
+Contraste iodado	Inyectable	Según disponibilidad (50 ml)
+Contraste iodado	Inyectable	Según disponibilidad (100 ml o 200 ml)
+Gadodiamida	Inyectable	287 mg/ml
+Gadopentato de dimeglumina	Inyectable	469 mg/ml
+Meglumina diatrizoato	Inyectable	70% o 76% (20 ml)
+Meglumina diatrizoato	Inyectable	70% o 76% (50 ml)
+Sulfato de bario	Suspensión	Según disponibilidad
+Sulfato de bario	Polvo para enema	Según disponibilidad
+Gadoversetamida	Inyectable	0,5mmol / ml
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-07-07T11:07:04-04:00.
+</ADDITIONAL_METADATA>
